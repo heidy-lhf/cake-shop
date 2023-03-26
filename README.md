@@ -1,3 +1,5 @@
+THIS WEBSITE IS TAKEN https://github.com/ritwickdey/Cake-Shop/blob/master/README.md SO THAT I CAN DO AUTOMATION...
+
 # Cake-Shop-Website
 Shop selling cakes
 
